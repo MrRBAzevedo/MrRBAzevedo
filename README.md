@@ -1,33 +1,25 @@
 # 👋 Olá, eu sou Renan Azevedo!
 
-🎓 Sou estudante de **Informática para Internet** no IFRN (Instituto Federal do Rio Grande do Norte)  
-💻 Também sou estudante de **Informática** no IMD (Instituto Metrópole Digital)
+🎓 Estudo **Informática para Internet** no IFRN (Instituto Federal do Rio Grande do Norte)  
+💻 Faço o curso de **Técnico em Informática** no IMD (Instituto Metrópole Digital)
 
 ---
 
 ## 🚀 Sobre mim
-Tenho interesse em tecnologia, desenvolvimento web e tudo que envolve o universo da programação. Estou sempre buscando aprender coisas novas e evoluir minhas habilidades.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-- Python
-- HTML e CSS 
-- Git e GitHub  
-- Lógica de Programação  
+Considero-me uma pessoa bastante curiosa e adoro estudar e adquirir novos conhecimentos, especialmente quando se trata da área de tecnologia
 
 ---
 
 ## 📚 Atualmente aprendendo
-- Desenvolvimento Web  
-- Boas práticas de programação  
-- Novas tecnologias da área de TI  
+- Python e lógica de programação  
+- HTML e CSS para desenvolvimento web  
+- Princípios de Design Web
 
 ---
 
 ## 📫 Contato
-- GitHub: [MrRBAzevedo]  
-- Email: [renan.brito.azevedo@gmail.com]
+- GitHub: [MrRBAzevedo](https://github.com/MrRBAzevedo)
+- Email: renan.brito.azevedo@gmail.com
 
 ---
 
