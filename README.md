@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Renan Azevedo!
 
-<!--
-**MrRBAzevedo/MrRBAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de **Informática para Internet** no IFRN (Instituto Federal do Rio Grande do Norte)  
+💻 Também sou estudante de **Informática** no IMD (Instituto Metrópole Digital)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Tenho interesse em tecnologia, desenvolvimento web e tudo que envolve o universo da programação. Estou sempre buscando aprender coisas novas e evoluir minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- Python
+- HTML e CSS 
+- Git e GitHub  
+- Lógica de Programação  
+
+---
+
+## 📚 Atualmente aprendendo
+- Desenvolvimento Web  
+- Boas práticas de programação  
+- Novas tecnologias da área de TI  
+
+---
+
+## 📫 Contato
+- GitHub: [MrRBAzevedo]  
+- Email: [renan.brito.azevedo@gmail.com]
+
+---
+
+⭐ Obrigado por visitar meu perfil!
