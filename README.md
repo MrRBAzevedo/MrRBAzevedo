@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Renan Azevedo!
 
 🎓 Estudo **Informática para Internet** no IFRN (Instituto Federal do Rio Grande do Norte)  
-💻 Faço o curso de **Técnico em Informática** no IMD (Instituto Metrópole Digital)
+💻 Faço o curso de **Técnico em Tecnologia da Informação** no IMD (Instituto Metrópole Digital)
 
 ---
 
